@@ -1,3 +1,5 @@
+This repository is prepared for the SyberBurger community and includes basic Go language concepts and simple applications. Everything shown in the training is for educational purposes.
+
 # lookup.go
 
 This program is a Go program that resolves subdomains for a user-inputted domain name and prints the IP addresses of each subdomain.
